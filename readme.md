@@ -13,6 +13,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SugarCRM](http://www.sugarcrm.com) - Contact-focused and free if we host.
 - [Streak](https://www.streak.com) - Gmail-integrated solution, highly customizable.
 
+## Cold Email & Outreach
+
+- [Suplex](https://trysuplex.com) - All-in-one cold email and lead generation platform.
+- [Lemlist](https://lemlist.com) - Personalized cold outreach with images and videos.
+- [Instantly](https://instantly.ai) - Scale cold email with unlimited accounts.
+- [Mailshake](https://mailshake.com) - Simple sales engagement and cold email.
+
 ## Email Tracking
 
 - [Yesware](http://www.yesware.com) - See click updates on links and opens (30% HQ Raleigh discount).
